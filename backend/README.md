@@ -1,6 +1,6 @@
 # Back end of web polling service
 
-The backend of this web polling service was written in Java
+The backend of this web polling service was written in Java using Vert.x, with Gradle as a build automation tool.
 
 # Building
 
@@ -16,7 +16,7 @@ You can run the unit test suite with
 gradlew test
 ```
 
-IntelliJ IDEA was my IDE of choice (Thank you 30 day trial ;) )
+IntelliJ IDEA was my IDE of choice
 
 You can import this project into IntelliJ as follows
 
