@@ -16,7 +16,7 @@ You can run the unit test suite with
 gradlew test
 ```
 
-IntelliJ IDEA was my IDE of choice (Thank you 30 day trial ;) )
+IntelliJ IDEA was my IDE of choice
 
 You can import this project into IntelliJ as follows
 
