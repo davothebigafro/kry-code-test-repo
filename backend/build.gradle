@@ -16,6 +16,10 @@ dependencies {
     implementation "io.vertx:vertx-web:3.0.0"
     implementation "io.vertx:vertx-web-client:3.8.4"
 
+    implementation platform('com.google.cloud:libraries-bom:23.0.0')
+
+    implementation 'com.google.cloud:google-cloud-storage'
+
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 }

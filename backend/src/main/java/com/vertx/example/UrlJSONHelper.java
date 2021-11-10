@@ -41,6 +41,8 @@ public class UrlJSONHelper {
 
     }
 
+
+
     private void parseServiceObject(JsonObject service) {
 
         //Get service name
