@@ -23,3 +23,6 @@ You can import this project into IntelliJ as follows
 ```
 New - New from existing source - select this directory -> select Gradle
 ```
+## Containerisation
+
+Inside this project is a Dockerfile which can be used to build a Docker image for the backend of the web polling service.
