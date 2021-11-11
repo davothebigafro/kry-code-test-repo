@@ -25,4 +25,4 @@ New - New from existing source - select this directory -> select Gradle
 ```
 ## Containerisation
 
-Inside this project is a Dockerfile which can be used to build a Docker image for the front end of the web polling service.
+Inside this project is a Dockerfile which can be used to build a Docker image for the backend of the web polling service.
