@@ -8,7 +8,7 @@ Further details are inside the 2 sub-directories on how to run the individual co
 
 ## Demo
 
-[Click here for demo](https://frontend-7gfnechdsa-uc.a.run.app/) hosted in Google Cloud
+[Click here for demo](https://frontend-7gfnechdsa-uc.a.run.app/) hosted in Google Cloud (Can sometimes take a little while to load so give it some time).
 
 ## Architecture
 
