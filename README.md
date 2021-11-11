@@ -16,6 +16,7 @@ Further details are inside the 2 sub-directories on how to run the individual co
 
 ## Features
 - User can add and delete services with a url and name.
+- User can update a service's url 
 - Present when a service was last added or deleted with a timestamp
 - URL validation on the frontend
 - Poller results are automatically displayed, the app refreshes content periodically
