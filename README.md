@@ -22,7 +22,7 @@ Further details are inside the 2 sub-directories on how to run the individual co
 - Examples of unit tests, on the frontend and the backend
 
 ## Wishlist
-- Multi-User support
+- I would like to add Multi-User support
 - I would like to set up a MySQL database 
 - I would like to extensively unit test my frontend React Components
 - I would like to extensively unit test my backend Java classes
