@@ -33,5 +33,4 @@ Launches the test runner.
 Builds the app for production to the `build` folder.
 
 ### Containerisation
-
 Inside this project is a Dockerfile which can be used to build a Docker image for the front end of the web polling service.
