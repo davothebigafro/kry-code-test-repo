@@ -4,7 +4,7 @@ import "../form.css";
 
 function Form(props) {
   // https://react-hook-form.com/api/useform
-  // useForm is custom hook for managing forms with ease. It take
+  // useForm is custom hook for managing forms with ease.
   const { register, handleSubmit, reset } = useForm();
 
   // Function to add a new service.
