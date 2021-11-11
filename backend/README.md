@@ -21,7 +21,7 @@ IntelliJ IDEA was my IDE of choice
 You can import this project into IntelliJ as follows
 
 ```
-New - New from existing source - select this directory -> select Gradle
+New - New from existing source - select this directory - select Gradle
 ```
 ## Containerisation
 
