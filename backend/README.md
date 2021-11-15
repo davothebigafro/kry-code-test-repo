@@ -1,6 +1,6 @@
 # Back end of web polling service
 
-The backend of this web polling service was written in Java using Vert.x, with Gradle as a build automation tool.
+The backend of this web polling service was written in Java (JDK 16, you may need to be using this version) using Vert.x, with Gradle as a build automation tool.
 
 # Building
 
